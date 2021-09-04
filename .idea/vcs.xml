@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="E:/" vcs="Git" />
+    <mapping directory="E:/FlipkratScrappingProject" vcs="Git" />
+    <mapping directory="E:/FlipkratScrappingProject (1) (1)/FlipkratScrappingProject" vcs="Git" />
+    <mapping directory="E:/review scraper-20210731T120330Z-001/review scraper/reviewFlask" vcs="Git" />
+    <mapping directory="E:/review scrapper deployment in heroku-20210725T030402Z-001/review scrapper deployment in heroku/reviewFlask" vcs="Git" />
+    <mapping directory="E:/reviewFlask-20210731T094408Z-001/reviewFlask" vcs="Git" />
   </component>
 </project>

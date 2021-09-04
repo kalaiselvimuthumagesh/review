@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:heroku" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cad8e119-e021-4cdd-9e5c-985e6c3ab969" name="Default Changelist" comment="">
+      <change afterPath="E:/.idea/.name" afterDir="false" />
+      <change afterPath="E:/.idea/E.iml" afterDir="false" />
+      <change afterPath="E:/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="E:/review scrapper deployment in heroku-20210725T030402Z-001/.idea/review scrapper deployment in heroku-20210725T030402Z-001.iml" afterDir="false" />
+      <change afterPath="E:/reviewFlask-20210731T094408Z-001/.idea/reviewFlask-20210731T094408Z-001.iml" afterDir="false" />
+      <change beforePath="E:/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="E:/.idea/firstFlask.iml" beforeDir="false" />
+      <change beforePath="E:/.idea/misc.xml" beforeDir="false" afterPath="E:/.idea/misc.xml" afterDir="false" />
+      <change beforePath="E:/.idea/modules.xml" beforeDir="false" afterPath="E:/.idea/modules.xml" afterDir="false" />
+      <change beforePath="E:/.idea/vcs.xml" beforeDir="false" afterPath="E:/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="E:/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="E:/FlipkratScrappingProject (1) (1)/FlipkratScrappingProject/.idea/FlipkratScrappingProject.iml" beforeDir="false" afterPath="E:/FlipkratScrappingProject (1) (1)/FlipkratScrappingProject/.idea/FlipkratScrappingProject.iml" afterDir="false" />
+      <change beforePath="E:/FlipkratScrappingProject (1) (1)/FlipkratScrappingProject/.idea/misc.xml" beforeDir="false" afterPath="E:/FlipkratScrappingProject (1) (1)/FlipkratScrappingProject/.idea/misc.xml" afterDir="false" />
+      <change beforePath="E:/Procfile" beforeDir="false" />
+      <change beforePath="E:/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="E:/app.py" beforeDir="false" />
+      <change beforePath="E:/gitignore" beforeDir="false" />
+      <change beforePath="E:/iphone.csv" beforeDir="false" />
+      <change beforePath="E:/iphone7.csv" beforeDir="false" />
+      <change beforePath="E:/requirements.txt" beforeDir="false" />
+      <change beforePath="E:/runtime.txt" beforeDir="false" />
+      <change beforePath="E:/samsung.csv" beforeDir="false" />
+      <change beforePath="E:/static/css/main.css" beforeDir="false" />
+      <change beforePath="E:/static/css/style.css" beforeDir="false" />
+      <change beforePath="E:/templates/base.html" beforeDir="false" />
+      <change beforePath="E:/templates/index.html" beforeDir="false" />
+      <change beforePath="E:/templates/results.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="E:/" />
+  </component>
+  <component name="ProjectId" id="1xfbCMmdJzVskSRlIJUqTyHJIjy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="E" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/MachineLearningModelToHeroku-master/MachineLearningModelToHeroku-master/MLForCloudDeployment_Heroku" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:/MachineLearningModelToHeroku-master/MachineLearningModelToHeroku-master/MLForCloudDeployment_Heroku/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cad8e119-e021-4cdd-9e5c-985e6c3ab969" name="Default Changelist" comment="" />
+      <created>1630748962261</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630748962261</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1630749355133">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1630749355133" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1630749355133">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1630749355133" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1630749355133">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1630749355133" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1630749355133">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1630749355133" />
+  </component>
+</project>
